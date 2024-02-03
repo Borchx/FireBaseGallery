@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "459140465907",
+    "project_id": "firestorage-6a759",
+    "storage_bucket": "firestorage-6a759.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459140465907:android:8b10c81dcad2da7a9ce386",
+        "android_client_info": {
+          "package_name": "com.borja.android.firestorage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADlIFUIj5GNfW3un79ysyGrYPU2_5wenU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
